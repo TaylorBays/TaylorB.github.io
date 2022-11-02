@@ -64,7 +64,9 @@ Science, Race, and Technology Learning Community
 
 
 
+Here's a direct link to the About page: [about](about.html).
 
+Here's a direct link to the Data Science Dashboard: [dashboard](dashboard.html).
 
 
 

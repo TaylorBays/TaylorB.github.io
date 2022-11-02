@@ -24,5 +24,8 @@ I aspire to see Frank Ocean in concert. One of the best artists of our generatio
 The ocean or any large body of water makes me immensely happy.
 ![](images/BlueOcean.jpg)
 
-Here's a direct link to the about page: [about](about.html).
+Here's a direct link to the About page: [about](about.html).
+
+Here's a direct link to the Data Science Dashboard: [dashboard](dashboard.html).
+
 
